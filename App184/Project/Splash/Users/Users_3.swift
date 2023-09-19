@@ -27,12 +27,12 @@ struct Users_3: View {
                 
                 VStack(spacing: 9, content: {
                     
-                    Text("Discover new ideas")
+                    Text("Join our Telegram Channel")
                         .foregroundColor(.white)
                         .font(.system(size: 21, weight: .semibold))
                         .multilineTextAlignment(.center)
                     
-                    Text("For Your Own Successful Investments")
+                    Text("and trade with our team")
                         .foregroundColor(.gray)
                         .font(.system(size: 14, weight: .regular))
                         .multilineTextAlignment(.center)

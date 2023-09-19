@@ -43,9 +43,9 @@
         </scene>
     </scenes>
     <resources>
-        <image name="logo_big" width="190" height="190"/>
+        <image name="logo_big" width="1024" height="1024"/>
         <namedColor name="bg">
-            <color red="0.11372549830000001" green="0.1215686351" blue="0.13333332540000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.11400000005960464" green="0.12200000137090683" blue="0.13300000131130219" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
     </resources>
 </document>

@@ -22,10 +22,6 @@ struct LoadingView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 150, height: 150)
-                
-                Text("InvestHub")
-                    .foregroundColor(.white)
-                    .font(.system(size: 21, weight: .semibold))
             })
         }
     }

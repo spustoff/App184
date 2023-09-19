@@ -50,11 +50,11 @@ struct Users_1: View {
                 }, label: {
                     
                     Text("Next")
-                        .foregroundColor(.black)
+                        .foregroundColor(.white)
                         .font(.system(size: 14, weight: .medium))
                         .frame(maxWidth: .infinity)
                         .frame(height: 50)
-                        .background(RoundedRectangle(cornerRadius: 10).fill(Color("primary")))
+                        .background(RoundedRectangle(cornerRadius: 10).fill(Color(red: 31/255, green: 90/255, blue: 202/255)))
                         .padding()
                 })
             }
